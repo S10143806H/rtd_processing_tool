@@ -1,4 +1,4 @@
-# Guide to convert all docx files to rst files
+# Guide to convert all docx files to .rst files
 
 ## 3 Steps to follow
 
@@ -8,6 +8,6 @@
 
 3. Simply double click the run.bat or manually run the following command
 
-```Python
-python3 pandoc.py
-```
+  ```Python
+  python3 pandoc.py
+  ```
